@@ -1,0 +1,137 @@
+<sounds root="sfx/">
+	<sound name="getgems">
+		<sample weight="1" path="gibcollect.wav" />
+	</sound>
+    <sound name="getgemsplus">
+		<sample weight="1" path="gibcollectmagic.wav" />
+	</sound>
+    <sound name="isdead">
+		<sample weight="1" path="death.wav" />
+	</sound>
+    <sound name="debut">
+		<sample weight="1" path="spawnplayer.wav" />
+	</sound>
+    <sound name="shot">
+		<sample weight="1" path="shot1.wav" />
+	</sound>
+    <sound name="shotplus">
+		<sample weight="1" path="shot3.wav" />
+	</sound>
+    <sound name="5fire">
+		<sample weight="1" path="rapid1.wav" />
+	</sound>
+    <sound name="35fire">
+		<sample weight="1" path="rapid2.wav" />
+	</sound>
+    <sound name="75fire">
+		<sample weight="1" path="rapid3.wav" />
+	</sound>
+    <sound name="5levelup">
+		<sample weight="1" path="levelup2.wav" />
+	</sound>
+    <sound name="35levelup">
+		<sample weight="1" path="levelup3.wav" />
+	</sound>
+    <sound name="75levelup">
+		<sample weight="1" path="levelup4.wav" />
+	</sound>
+    <sound name="idleskull1">
+		<sample weight="1" path="chatterskull.wav" />
+	</sound>
+    <sound name="idleskull2">
+		<sample weight="1" path="chatterskull2.wav" />
+	</sound>
+    <sound name="idleskull3">
+		<sample weight="1" path="chatterskull3.wav" />
+	</sound>
+    <sound name="idleskull4">
+		<sample weight="1" path="chatterskull4.wav" />
+	</sound>
+    <sound name="idleskull1muted">
+		<sample weight="1" path="chatterskullblack.wav" />
+	</sound>
+    <sound name="idleskull2muted">
+		<sample weight="1" path="chatterskull2black.wav" />
+	</sound>
+    <sound name="idleskull3muted">
+		<sample weight="1" path="chatterskull3black.wav" />
+	</sound>
+    <sound name="idleskull4muted">
+		<sample weight="1" path="chatterskull4black.wav" />
+	</sound>
+    <sound name="spawnsquid1">
+		<sample weight="1" path="spawnminisquid.wav" />
+	</sound>
+    <sound name="spawnsquid2">
+		<sample weight="1" path="spawnsquid.wav" />
+	</sound>
+    <sound name="spawnsquid3">
+		<sample weight="1" path="spawnultrasquid.wav" />
+	</sound>
+    <sound name="idlesquid1">
+		<sample weight="1" path="chatterminisquid.wav" />
+	</sound>
+    <sound name="idlesquid2">
+		<sample weight="1" path="chattersquid.wav" />
+	</sound>
+    <sound name="idlesquid3">
+		<sample weight="1" path="chattersquidultra.wav" />
+	</sound>
+    <sound name="spawnwave1">
+		<sample weight="1" path="spawnskulls.wav" />
+	</sound>
+    <sound name="spawnwave2">
+		<sample weight="1" path="spawnskulls2.wav" />
+	</sound>
+    <sound name="spawnwave3">
+		<sample weight="1" path="spawnskulls3.wav" />
+	</sound>
+    <sound name="spawnegg">
+		<sample weight="1" path="spawnegg.wav" />
+	</sound>
+    <sound name="spawnspider1">
+		<sample weight="1" path="spawnspider.wav" />
+	</sound>
+    <sound name="spawnspider2">
+		<sample weight="1" path="spawngigaspider.wav" />
+	</sound>
+    <sound name="idlespider1">
+		<sample weight="1" path="chatterspider.wav" />
+	</sound>
+    <sound name="idlespider2">
+		<sample weight="1" path="chattergigaspider.wav" />
+	</sound>
+    <sound name="eating1">
+		<sample weight="1" path="spidereat2.wav" />
+	</sound>
+    <sound name="eating2">
+		<sample weight="1" path="spidereat4.wav" />
+	</sound>
+    <sound name="idlecenti">
+		<sample weight="1" path="chattercentipede.wav" />
+	</sound>
+    <sound name="idlegiga">
+		<sample weight="1" path="chattercentipede2.wav" />
+	</sound>
+    <sound name="idleghost">
+		<sample weight="1" path="chatterultrapede.wav" />
+	</sound>
+    <sound name="idlethorn">
+		<sample weight="1" path="chatterthorn.wav" />
+	</sound>
+    <sound name="idlelev">
+		<sample weight="1" path="chatterleviathan.wav" />
+	</sound>
+    <sound name="spawnlev">
+		<sample weight="1" path="spawnleviathan.wav" />
+	</sound>
+    <sound name="levmuted">
+		<sample weight="1" path="leviathantransmute.wav" />
+	</sound>
+    <sound name="levbeckon">
+		<sample weight="1" path="leviathanbeckon.wav" />
+	</sound>
+    <sound name="levkill">
+		<sample weight="1" path="killleviathan.wav" />
+	</sound>
+</sounds>

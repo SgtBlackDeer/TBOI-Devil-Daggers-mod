@@ -1,0 +1,29 @@
+<ItemPools>
+	<Pool Name="devil">
+		<Item Name="The Dagger" Weight="0.7" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+    <Pool Name="demonBeggar">
+		<Item Name="The Dagger" Weight="0.6" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+    <Pool Name="greedDevil">
+		<Item Name="The Dagger" Weight="0.6" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="greedTreasure">
+		<Item Name="The Dagger" Weight="0.4" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+    <Pool Name="greedShop">
+		<Item Name="The Power" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+    <Pool Name="devil">
+		<Item Name="The Power" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+    <Pool Name="demonBeggar">
+		<Item Name="The Power" Weight="0.3" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+    <Pool Name="greedDevil">
+		<Item Name="The Power" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="greedShop">
+		<Item Name="The Power" Weight="0.3" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

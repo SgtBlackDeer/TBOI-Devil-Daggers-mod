@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Devil Daggers</name>
+    <directory>devildaggers</directory>
+    <id>2219251366</id>
+    <description>I tried to recreate the game [b]DEVIL DAGGERS[/b] in [b]TBOI[/b].
+
+You will find in this mod :
+[list]
+[*]A new challenge &quot;Devil Daggers&quot; that imitates the game.
+[*]A new nameless(?) playable character and his tainted version.
+[*]2 items
+[*]New enemies.
+[/list]
+
+Collecting gems will give you more firepower if you have one of the Devil Daggers items.
+For a good balance, gems needed for upgrades are divided by 2 when playing with the new character.
+
+This mod is not perfect but I tried my best to tribute this game I love (even if I suck at it).
+
+For the game stability, in the challenge at 259 seconds, only 1 Gigapede will appear as 150 Larry parts at the same time break the game.
+
+Items are compatible with the External Item Description mod.
+
+I would like to thank the Modding Of Isaac community that helped me fix some problems and the Devil Daggers wiki for the infos.
+
+Feel free to give me feedback or try to improve my mod.
+
+Enjoy.
+
+Every sounds used belong to [b]SORATH[/b].
+Every sprite desgins were inspired by those created by [b]SORATH[/b].</description>
+    <version>1.7</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Pickups"/>
+    <tag id="Player Characters"/>
+    <tag id="Enemies"/>
+    <tag id="Challenges"/>
+</metadata>

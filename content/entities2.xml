@@ -1,0 +1,83 @@
+<entities anm2root="gfx/" version="5">
+    <entity anm2path="gems.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="-1" collisionRadius="12" friction="1" id="5" name="Gems" numGridCollisionPoints="24" shadowSize="15" stageHP="0" variant="909" subtype="1">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="egg i.anm2" reroll="true" baseHP="3" boss="0" champion="0" collisionDamage="1" collisionMass="1" collisionRadius="17" friction="1" id="668" name="Eggs" numGridCollisionPoints="24" shadowSize="17" stageHP="0" variant="0" portrait="27" bestiary="false" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="2" large="0" />
+    </entity>
+    <entity anm2path="egg i.anm2" reroll="true" baseHP="3" boss="0" champion="0" collisionDamage="1" collisionMass="1" collisionRadius="17" friction="1" id="668" name="Egg I" numGridCollisionPoints="24" shadowSize="17" stageHP="0" variant="9696" portrait="27" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="2" large="0" />
+    </entity>
+    <entity anm2path="egg ii.anm2" reroll="true" baseHP="3" boss="0" champion="0" collisionDamage="1" collisionMass="3" collisionRadius="12" friction="1" id="668" name="Egg II" numGridCollisionPoints="24" shadowSize="17" stageHP="0" variant="9797" portrait="27" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="2" large="0" />
+    </entity>
+    <entity id="215" variant="8989" name="Spiderling" reroll="true" baseHP="3" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="10" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="16" portrait="83" anm2path="spiderling.anm2" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Walk">
+        <gibs amount="0" blood="1" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="squid i.anm2" baseHP="10" boss="0" champion="0" collisionDamage="1" collisionMass="50" collisionRadius="30" friction="1" id="666" name="Squids" numGridCollisionPoints="12" shadowSize="23" stageHP="0" variant="0" portrait="108" gridCollision="walls" bestiary="false" bestiaryTransform="0,0,1" bestiaryAnim="HeartBeat">
+        <gibs amount="20" blood="1" bone="0" eye="0" gut="0" large="1" />
+    </entity>
+    <entity anm2path="squid i.anm2" baseHP="10" boss="0" champion="0" collisionDamage="1" collisionMass="50" collisionRadius="30" friction="1" id="666" name="Squid I" numGridCollisionPoints="12" shadowSize="23" stageHP="0" variant="8686" portrait="108" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="HeartBeat">
+        <gibs amount="20" blood="1" bone="0" eye="0" gut="0" large="1" />
+    </entity>
+    <entity anm2path="squid ii.anm2" baseHP="20" boss="0" champion="0" collisionDamage="1" collisionMass="50" collisionRadius="30" friction="1" id="666" name="Squid II" numGridCollisionPoints="12" shadowSize="23" stageHP="0" variant="8787" portrait="108" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="HeartBeat">
+        <gibs amount="20" blood="1" bone="0" eye="0" gut="0" large="1" />
+    </entity>
+    <entity anm2path="squid iii.anm2" baseHP="90" boss="0" champion="0" collisionDamage="1" collisionMass="50" collisionRadius="30" friction="1" id="666" name="Squid III" numGridCollisionPoints="12" shadowSize="26" stageHP="0" variant="8888" portrait="108" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="HeartBeat">
+        <gibs amount="20" blood="1" bone="0" eye="0" gut="0" large="1" />
+    </entity>
+    <entity anm2path="spider i.anm2" baseHP="25" champion="0" collisionDamage="1" collisionMass="30" collisionRadius="35" friction="0" id="667" name="Spiders" numGridCollisionPoints="12" shadowSize="34" stageHP="0" variant="0" portrait="157" gridCollision="walls" bestiary="false" bestiaryTransform="0,14,1" bestiaryAnim="Walk">
+        <gibs amount="16" blood="1" bone="1" eye="0" gut="1" large="1" />
+    </entity>
+    <entity anm2path="spider i.anm2" baseHP="25" champion="0" collisionDamage="1" collisionMass="30" collisionRadius="35" friction="0" id="667" name="Spider I" numGridCollisionPoints="12" shadowSize="34" stageHP="0" variant="9090" portrait="157" gridCollision="walls" bestiary="true" bestiaryTransform="0,14,1" bestiaryAnim="Walk">
+        <gibs amount="16" blood="1" bone="1" eye="0" gut="1" large="1" />
+    </entity>
+    <entity anm2path="spider ii.anm2" baseHP="200" champion="0" collisionDamage="1" collisionMass="30" collisionRadius="35" friction="0" id="667" name="Spider II" numGridCollisionPoints="12" shadowSize="34" stageHP="0" variant="9191" portrait="157" gridCollision="walls" bestiary="true" bestiaryTransform="0,14,1" bestiaryAnim="Walk">
+        <gibs amount="16" blood="1" bone="1" eye="0" gut="1" large="1" />
+    </entity>
+    <entity id="231" variant="8181" name="Thorn" anm2path="thorn.anm2" reroll="true" baseHP="120" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="100" collisionRadius="13" friction="0" numGridCollisionPoints="12" shadowSize="22" portrait="108" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="4" blood="1" bone="0" eye="0" gut="1" large="0" />
+    </entity>
+    <entity id="214" variant="8282" name="Skull I" reroll="true" baseHP="1" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="10" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="80" anm2path="skull i.anm2" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="0" blood="1" bone="0" eye="0" gut="1" large="0" />
+    </entity>
+    <entity anm2path="skull ii.anm2" reroll="true" baseHP="5" boss="0" champion="0" collisionDamage="1" collisionMass="10" collisionRadius="20" friction="1" id="21" name="Skull II" numGridCollisionPoints="24" shadowSize="26" stageHP="0" variant="8383" portrait="71" gridCollision="walls" bestiary="true" bestiaryTransform="0,-3,1" bestiaryAnim="Move Down">
+        <gibs amount="4" blood="1" bone="0" eye="0" gut="1" large="0" />
+    </entity>
+    <entity id="214" variant="8484" name="Skull III" reroll="true" baseHP="10" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="20" collisionRadius="26" friction="1" numGridCollisionPoints="24" shadowSize="26" portrait="71" anm2path="skull iii.anm2" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="4" blood="1" bone="0" eye="0" gut="1" large="0" />
+    </entity>
+    <entity id="214" variant="8585" name="Skull IV" reroll="true" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="20" collisionRadius="46" friction="1" numGridCollisionPoints="44" shadowSize="46" portrait="120" anm2path="skull iv.anm2" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="0" blood="1" bone="0" eye="0" gut="1" large="0" />
+    </entity>
+    <entity id="214" variant="9292" name="Skull I muted" reroll="true" baseHP="10" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="10" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="80" anm2path="skull i muted.anm2" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="0" blood="1" bone="0" eye="0" gut="1" large="0" />
+    </entity>
+    <entity anm2path="skull ii muted.anm2" reroll="true" baseHP="20" boss="0" champion="0" collisionDamage="1" collisionMass="24" collisionRadius="20" friction="1" id="21" name="Skull II muted" numGridCollisionPoints="24" shadowSize="26" stageHP="0" variant="9393" portrait="71" gridCollision="walls" bestiary="true" bestiaryTransform="0,-3,1" bestiaryAnim="Move Down">
+        <gibs amount="4" blood="1" bone="0" eye="0" gut="1" large="0" />
+    </entity>
+    <entity id="214" variant="9494" name="Skull III muted" reroll="true" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="20" collisionRadius="26" friction="1" numGridCollisionPoints="24" shadowSize="26" portrait="71" anm2path="skull iii muted.anm2" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="0" blood="1" bone="0" eye="0" gut="1" large="0" />
+    </entity>
+    <entity id="214" variant="9595" name="Skull IV muted" reroll="true" baseHP="300" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="40" collisionRadius="46" friction="1" numGridCollisionPoints="44" shadowSize="46" portrait="120" anm2path="skull iv muted.anm2" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="0" blood="1" bone="0" eye="0" gut="1" large="0" />
+    </entity>
+    <entity anm2path="centipede.anm2" baseHP="75" boss="0" champion="0" collisionDamage="1" collisionMass="50" collisionRadius="20" friction="1" id="19" name="Centipede" numGridCollisionPoints="0" shadowSize="23" stageHP="0" variant="9898" portrait="120" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="WalkHeadDown">
+        <gibs amount="2" blood="4" bone="1" eye="0" gut="2" large="0" worm="1" />
+    </entity>
+    <entity anm2path="gigapede.anm2" baseHP="250" boss="0" champion="0" collisionDamage="1" collisionMass="50" collisionRadius="20" friction="1" id="19" name="Gigapede" numGridCollisionPoints="0" shadowSize="23" stageHP="0" variant="9999" portrait="120" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="WalkHeadDown">
+        <gibs amount="2" blood="4" bone="1" eye="0" gut="2" large="0" worm="1" />
+    </entity>
+    <entity anm2path="ghostpede.anm2" baseHP="500" boss="0" champion="0" collisionDamage="1" collisionMass="50" collisionRadius="20" friction="1" id="19" name="Ghostpede" numGridCollisionPoints="0" shadowSize="23" stageHP="0" variant="9988" portrait="120" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="WalkHeadDown">
+        <gibs amount="2" blood="1" bone="4" eye="0" gut="0" large="0" worm="1" />
+    </entity>
+    <entity anm2path="leviathan.anm2" baseHP="1500" boss="1" champion="0" collisionDamage="1" collisionMass="100" collisionRadius="30" friction="0" id="669" name="Leviathan" numGridCollisionPoints="12" shadowSize="23" stageHP="0" variant="0" portrait="41" gridCollision="walls" bestiary="false" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="10" blood="1" bone="0" eye="0" gut="0" large="1" />
+    </entity>
+    <entity anm2path="leviathan.anm2" baseHP="1500" boss="1" champion="0" collisionDamage="1" collisionMass="100" collisionRadius="30" friction="0" id="669" name="Leviathan" numGridCollisionPoints="12" shadowSize="23" stageHP="0" variant="9889" portrait="41" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="10" blood="1" bone="0" eye="0" gut="0" large="1" />
+    </entity>
+    <entity anm2path="the orb.anm2" baseHP="2400" boss="1" champion="0" collisionDamage="1" collisionMass="100" collisionRadius="30" friction="0" id="669" name="The Orb" numGridCollisionPoints="12" shadowSize="23" stageHP="0" variant="8899" portrait="69" gridCollision="walls" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+        <gibs amount="10" blood="1" bone="0" eye="0" gut="0" large="1" />
+    </entity>
+</entities>

@@ -1,0 +1,4 @@
+<players root="gfx/characters/costumes/" nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/boss/" bigportraitroot="gfx/ui/stage/" costumeroot="gfx/characters/costumes/">
+	<player name="Devil" skin="character_devil.png" hp="0" black="1" keys="1"  costume="costume_body_devil.png" nameimage="PlayerName_devil.png" portrait="PlayerPortrait_devil.png" bigportrait="PlayerPortraitBig_devil.png" skinColor="1" birthright="More gems !" />
+    <player name="Tainted Devil" skin="character_tainted_devil.png" armor="1" bombs="1" nameimage="PlayerName_devil.png" portrait="PlayerPortrait_tainted_devil.png" bigportrait="PlayerPortraitBig_tainted_devil.png" skinColor="1" bSkinParent="Devil" birthright="The curse disminishes..." />
+</players>

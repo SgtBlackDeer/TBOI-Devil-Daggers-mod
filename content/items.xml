@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache="all" description="The bestowed power" gfx="collectibles_daggers.png" name="The Dagger" quality="3" />
+    <active description="Onslaught of daggers" gfx="collectibles_power.png" name="The Power" maxcharges="30" chargetype="timed" quality="2" />
+</items>

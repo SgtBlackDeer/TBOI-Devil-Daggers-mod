@@ -1,0 +1,10 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="costume_body_devil.anm2" type="none" priority="199" />
+	<costume anm2path="costume_body_devil_blue.anm2" type="none" priority="200" />
+    <costume anm2path="costume_devil.anm2" type="none" priority="199" />
+	<costume anm2path="costume_devil_blue.anm2" type="none" priority="200" />
+    <costume anm2path="costume_body_tainted_devil.anm2" type="none" priority="199" />
+	<costume anm2path="costume_body_tainted_devil_blue.anm2" type="none" priority="200" />
+    <costume anm2path="costume_tainted_devil.anm2" type="none" priority="199" />
+	<costume anm2path="costume_tainted_devil_blue.anm2" type="none" priority="200" />
+</costumes>
